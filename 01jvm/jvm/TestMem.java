@@ -6,6 +6,8 @@ public class TestMem {
         int[][] arr2 = new int[128][2];
         int[][][] arr3 = new int[64][2][2];
 
-        System.out.println();
+        System.out.println(arr1);
+        System.out.println(arr2);
+        System.out.println(arr3);
     }
 }
